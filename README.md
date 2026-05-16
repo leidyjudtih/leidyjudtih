@@ -1,4 +1,4 @@
-<h1 align="center">Judith Quishpe Chicaiza</h1>
+<h1 align="center">Leidy Judith Quishpe Chicaiza</h1>
 
 <h3 align="center">Estudiante de Ingeniería en Tecnologías de la Información | Apasionada por el Diseño</h3>
 
